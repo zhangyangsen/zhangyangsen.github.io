@@ -7,20 +7,34 @@
      xmlns:wfw="http://wellformedweb.org/CommentAPI/"
      >
   <channel>
+<<<<<<< HEAD
     <title>Intellectal Information Processing Lab</title>
     <link>http://www.example.com/blog</link>
     <description>Beijing Information Science and Technology University</description>
     <pubDate>Wed, 01 Jan 2014 13:40:18 GMT</pubDate>
+=======
+    <title>My Blogofile Example</title>
+    <link>http://www.example.com/blog</link>
+    <description>Just a simple HTML5 blog</description>
+    <pubDate>Wed, 01 Jan 2014 12:52:26 GMT</pubDate>
+>>>>>>> c77a6fb62ba680d7c60361c9afaa321bbc4c1c52
     <generator>Blogofile</generator>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
       <title>Post 2</title>
       <link>http://www.example.com/blog/2010/07/24/post-2</link>
+<<<<<<< HEAD
       <pubDate>Sat, 24 Jul 2010 16:20:00 CST</pubDate>
       <category><![CDATA[category 2]]></category>
       <category><![CDATA[category 1]]></category>
       <guid isPermaLink="false">b5Ob4OuvelGeUD6SNbh3A2I_wM8=</guid>
+=======
+      <pubDate>Sat, 24 Jul 2010 16:20:00 EDT</pubDate>
+      <category><![CDATA[category 2]]></category>
+      <category><![CDATA[category 1]]></category>
+      <guid isPermaLink="false">9RfGJ-330elQtmE83oH6fvHnNXc=</guid>
+>>>>>>> c77a6fb62ba680d7c60361c9afaa321bbc4c1c52
       <description>Post 2</description>
       <content:encoded><![CDATA[<p>This is post #2.</p>
 <p>This post just shows off some <a href="http://www.freewisdom.org/projects/python-markdown/" title="Markdown in Python">markdown</a> features. Markdown is a simple <abbr title="Hyper Text Markup Language (this is just an abbreviation test)">HTML</abbr> markup language in plain text, so it's easier to read and write.</p>

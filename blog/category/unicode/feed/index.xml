@@ -7,19 +7,32 @@
      xmlns:wfw="http://wellformedweb.org/CommentAPI/"
      >
   <channel>
+<<<<<<< HEAD
     <title>Intellectal Information Processing Lab</title>
     <link>http://www.example.com/blog</link>
     <description>Beijing Information Science and Technology University</description>
     <pubDate>Wed, 01 Jan 2014 13:40:18 GMT</pubDate>
+=======
+    <title>My Blogofile Example</title>
+    <link>http://www.example.com/blog</link>
+    <description>Just a simple HTML5 blog</description>
+    <pubDate>Wed, 01 Jan 2014 12:52:26 GMT</pubDate>
+>>>>>>> c77a6fb62ba680d7c60361c9afaa321bbc4c1c52
     <generator>Blogofile</generator>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <item>
       <title>Post 3 - Unicode Test - How about some 日本語テスト</title>
       <link>http://www.example.com/blog/2011/05/10/post-3-unicode-test-how-about-some-ri-ben-yu-tesuto</link>
+<<<<<<< HEAD
       <pubDate>Tue, 10 May 2011 15:22:00 CST</pubDate>
       <category><![CDATA[unicode]]></category>
       <guid isPermaLink="false">CmEjSEuSWoI13khMwj9rzl7LxOY=</guid>
+=======
+      <pubDate>Tue, 10 May 2011 15:22:00 EDT</pubDate>
+      <category><![CDATA[unicode]]></category>
+      <guid isPermaLink="false">B49PSSr_wWGUI8DUq4YBvHEXvYE=</guid>
+>>>>>>> c77a6fb62ba680d7c60361c9afaa321bbc4c1c52
       <description>Post 3 - Unicode Test - How about some 日本語テスト</description>
       <content:encoded><![CDATA[<p>Anglo-Saxon Rune Poem:</p>
 <p>ᚠᛇᚻ᛫ᛒᛦᚦ᛫ᚠᚱᚩᚠᚢᚱ᛫ᚠᛁᚱᚪ᛫ᚷᛖᚻᚹᛦᛚᚳᚢᛗ

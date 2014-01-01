@@ -4,10 +4,17 @@
   xmlns:thr="http://purl.org/syndication/thread/1.0"
   xml:lang="en"
    >
+<<<<<<< HEAD
   <title type="text">Intellectal Information Processing Lab</title>
   <subtitle type="text">Beijing Information Science and Technology University</subtitle>
 
   <updated>2014-01-01T13:40:18Z</updated>
+=======
+  <title type="text">My Blogofile Example</title>
+  <subtitle type="text">Just a simple HTML5 blog</subtitle>
+
+  <updated>2014-01-01T12:52:26Z</updated>
+>>>>>>> c77a6fb62ba680d7c60361c9afaa321bbc4c1c52
   <generator uri="http://blogofile.com/">Blogofile</generator>
 
   <link rel="alternate" type="text/html" href="http://www.example.com/blog" />
